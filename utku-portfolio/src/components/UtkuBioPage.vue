@@ -93,7 +93,7 @@ Beyond programming, I love **mathematics, physics, electrical & electronics**, a
   github: "https://github.com/utkysl",
   email: "mailto:utkuyesil189@gmail.com",
   linkedin: "https://www.linkedin.com/in/utku-ye%C5%9Fil-095a79325/",
-  instagram: "https://www.instagram.com/utkqy2606/",
+  instagram: "https://www.instagram.com/utqy2606/",
 };
 
 const skills = [
