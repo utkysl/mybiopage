@@ -127,8 +127,7 @@ const languages = [
   { name: "Turkish", level: "Native", flag: "/flags/tr.svg" },
   { name: "English", level: "B1+ / B2 (improving)", flag: "/flags/gb.svg" },
   { name: "Japanese", level: "~N5 mid", flag: "/flags/jp.svg" },
-  { name: "Russian", level: "Beginner", flag: "/flags/ru.svg" },
-  { name: "Chinese", level: "Beginner", flag: "/flags/cn.svg" },
+  { name: "Russian", level: "Beginner", flag: "/flags/ru.svg" }
 ];
 
 
