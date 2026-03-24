@@ -84,11 +84,29 @@ const avatarUrl = "/utku.jpeg";
 const bio = {
   name: "Utku Yeşil",
   tagline: "🚀 Physics Engineering Student • Programmer • Lifelong Learner",
-  summary: `Hello, I am **Utku Yeşil**, a preparatory student in Physics Engineering at Ankara University with a lifelong passion for science, technology, and continuous learning. 
+  summary: `The Intersection of Physics, Code, and Curiosity
+Hello! I’m Utku Yeşil, a Physics Engineering student at Ankara University with a relentless drive to understand how the world—and everything in it—works. Whether it's the fundamental laws of the universe or the architecture of a complex codebase, I am driven by a passion for solving puzzles and building functional beauty.
 
-Since childhood, I have been fascinated by how the universe works — from physics and astronomy to electronics and software development. I’ve gained hands-on experience with **C#, Python, JavaScript (Node.js, Vue.js), Unity, Unreal Engine, Arduino, and ESP8266** and share some projects on my GitHub. 
+🚀 Engineering & Software Development
+My journey began with a childhood fascination for electronics, leading me to hands-on experimentation with Arduino and ESP8266. Today, I bridge the gap between hardware and software. I’m a Full-Stack Developer experienced in JavaScript (Node.js, Vue.js, React), C#, and Python, and I enjoy exploring digital worlds through Unity and Unreal Engine. Currently, I am channeling my entrepreneurial energy into "GoodJob", a service marketplace startup where I lead the technical development.
 
-Beyond programming, I love **mathematics, physics, electrical & electronics**, and languages — I actively study **English, Japanese, Russian, and Chinese**. My vision is to blend engineering with curiosity to build useful, beautiful things.`,
+🌎 A Lifelong Polyglot Journey
+I believe that learning a language is like installing a new operating system for the mind. I don’t just study languages; I immerse myself in them. I am currently focusing on:
+
+English & German: Building professional and academic fluency to bridge my engineering career with global opportunities.
+
+Japanese: Exploring the logic and unique aesthetics of the language.
+
+🎸 Art, Discipline & Growth
+I believe a great engineer is fueled by diverse perspectives and a disciplined lifestyle. When I’m not coding or studying physics, you’ll find me:
+
+Music: Translating emotions into sound through the electric guitar and piano. I’m also an avid vinyl collector, always hunting for the next great-sounding record.
+
+Finance: Navigating the complexities of personal finance and stock investments, applying analytical thinking to market trends.
+
+Lifestyle: I’m a firm believer in the "Atomic Habits" philosophy—the idea that small, consistent improvements lead to massive results. Whether I’m cycling or mastering a new skill, I prioritize the 1% daily gain.
+
+My Vision: To blend the analytical discipline of physics with the creative freedom of software and art to build tools that truly matter.`,
 
   github: "https://github.com/utkysl",
   email: "mailto:utkuyesil189@gmail.com",
@@ -127,7 +145,7 @@ const languages = [
   { name: "Turkish", level: "Native", flag: "/flags/tr.svg" },
   { name: "English", level: "B1+ / B2 (improving)", flag: "/flags/gb.svg" },
   { name: "Japanese", level: "~N5 mid", flag: "/flags/jp.svg" },
-  { name: "Russian", level: "Beginner", flag: "/flags/ru.svg" }
+  { name: "German", level: "Beginner", flag: "/flags/de.svg" }
 ];
 
 
